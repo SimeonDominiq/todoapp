@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App: Components: Todo List Group Layout matches snapshot 1`] = `
+<div
+  className="sc-gsnTZi kJiiun"
+>
+  <div
+    className="group-header"
+  >
+    <span
+      className="group-sn"
+    >
+      1
+    </span>
+    <h2
+      className="group-title"
+    >
+      Foundation
+    </h2>
+  </div>
+  <div
+    className="sc-bczRLJ kLtGVI"
+  >
+    <label>
+      <input
+        checked={false}
+        onChange={[Function]}
+        type="checkbox"
+        value={11}
+      />
+       
+      Setup virtual office
+    </label>
+  </div>
+</div>
+`;

@@ -1,0 +1,18 @@
+{
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": false,
+    "semi": true,
+    "trailingComma": "all",
+    "arrowParens": "always",
+    "quoteProps": "as-needed",
+    "overrides": [
+      {
+        "files": ["*.ts", "*.tsx"],
+        "options": {
+          "semi": false
+        }
+      }
+    ]
+}

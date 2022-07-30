@@ -1,0 +1,60 @@
+[
+    {
+        "groupId": 1,
+        "groupTitle": "Foundation",
+        "todoItems": [
+            {
+                "id": 11,
+                "title": "Setup virtual office",
+                "isCompleted": false
+            },
+            {
+                "id": 12,
+                "title": "Set mission & vision",
+                "isCompleted": false
+            },
+            {
+                "id": 13,
+                "title": "Select business name",
+                "isCompleted": false
+            },                              
+            {
+                "id": 14,
+                "title": "Buy domains",
+                "isCompleted": false
+            }            
+        ]
+    },
+    {
+        "groupId": 2,
+        "groupTitle": "Discovery",
+        "todoItems": [
+            {
+                "id": 21,
+                "title": "Create roadmap",
+                "isCompleted": false
+            },
+            {
+                "id": 22,
+                "title": "Competitor analysis",
+                "isCompleted": false
+            }                
+        ]
+    },
+    {
+        "groupId": 3,
+        "groupTitle": "Delivery",
+        "todoItems": [
+            {
+                "id": 31,
+                "title": "Release marketing website",
+                "isCompleted": false
+            },
+            {
+                "id": 32,
+                "title": "Release MVP",
+                "isCompleted": false
+            }                
+        ]
+    }       
+]
